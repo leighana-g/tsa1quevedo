@@ -1,0 +1,13 @@
+
+.env
+.env.*
+!.env.example
+/vendor/
+/writable/cache/*
+/writable/logs/*
+/writable/session/*
+/writable/debugbar/*
+/writable/uploads/*
+!**/index.html
+!**/.htaccess
+*.zip
